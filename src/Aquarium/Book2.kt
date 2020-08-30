@@ -1,5 +1,8 @@
 package Aquarium
 
+import java.lang.Integer.max
+import kotlin.random.Random
+
 fun main(args: Array<String>) {
     val myBook = Book2("Grapes of Wrath", "Mark Twain", "1953")
     println(myBook.getAuthorTitle())
@@ -14,9 +17,12 @@ fun main(args: Array<String>) {
 
     myBook.printURL()
     println("can borrow book?: ${myBook.canBorrow(3)}")
+
+    var puppy = Puppy()
+    puppy.playWithBook(myBook)
 }
 
-class Book2(val title: String, val author: String, val year: String) {
+class Book2(val title: String, val author: String, val year: String, var pages: Int = 100) {
 
     companion object Constants {
         const val BASE_URL = "www.mylibrary.com/books/"
@@ -37,5 +43,19 @@ class Book2(val title: String, val author: String, val year: String) {
 
     fun canBorrow(num: Int): Boolean {
         return num < maxNumBooks
+    }
+}
+
+fun Book2.weight() = pages * 1.5
+fun Book2.tornPages(num_torn: Int) {
+    pages = max(pages - num_torn, 0)
+}
+
+class Puppy(){
+    fun playWithBook(book: Book2) {
+        println("Playing with book ${book.title}")
+        val torn_pages = Random.nextInt(10)
+        book.tornPages(torn_pages)
+        println("Oops tore some pages, ${book.pages} remaining")
     }
 }

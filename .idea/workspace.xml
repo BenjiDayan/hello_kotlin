@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8226329d-a17f-494d-9942-6fd51a5ef727" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8226329d-a17f-494d-9942-6fd51a5ef727" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aquarium/Book3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aquarium/Generics.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aquarium/generics/Aquarium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$eagerExample$filtered$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$eagerExample$filtered$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$rollDice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$rollDice$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$rollDice2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$rollDice2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$spices_example$$inlined$sortedBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt$spices_example$$inlined$sortedBy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/AMSKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Aquarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Aquarium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/AquariumFish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/AquariumFish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/AquariumFishKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/AquariumFishKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book2$Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book2$Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Book2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/ConstantsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/ConstantsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Decorations/Decorations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Decorations/Decorations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Decorations/Decorations2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Decorations/Decorations2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Decorations/DecorationsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Decorations/DecorationsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Ebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Ebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/FishAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/FishAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/FishAction2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/FishAction2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/FishColor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/FishColor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/GoldColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/GoldColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/InheritanceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/InheritanceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/MobyDickWhale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/MobyDickWhale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Plecostomus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Plecostomus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Plecostomus2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Plecostomus2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/PrintingFishAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/PrintingFishAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/RedColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/RedColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SeaLion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SeaLion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Seal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Seal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Shark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Shark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SimpleSpice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SimpleSpice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SpecialClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SpecialClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Spice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SpiceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/SpiceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/TowerTank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/TowerTank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Walrus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Aquarium/Walrus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Lesson_3_q13Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Lesson_3_q13Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Lesson_3_q3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Lesson_3_q3Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Lesson_3_q5Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Lesson_3_q5Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/META-INF/hello_kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/META-INF/hello_kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Curry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Curry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Grinder$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Grinder$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Grinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Grinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/Spice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/SpiceColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/SpiceColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/SpiceContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/SpiceContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/SpiceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/SpiceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/YellowColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/Spices/YellowColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/CFE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/CFE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/Fraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/Pj40Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/Pj40Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/Pj57Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_kotlin/pj_euler/Pj57Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aquarium/Book2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aquarium/Book2.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,31 +95,58 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="1YluoHkUhLCYPCapXbl5ql93FKF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="kotlin.migration.detection.enabled" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Kotlin.Pj57Kt">
-    <configuration name="Book2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.AquariumKt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Aquarium.generics.AquariumKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="hello_kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -52,20 +159,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pj40Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Book3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="hello_kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="pj_euler.Pj40Kt" />
+      <option name="MAIN_CLASS_NAME" value="Aquarium.Book3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pj57Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Aquarium.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pj57Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="hello_kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -78,49 +198,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="hello_kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Aquarium.SpecialClassesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpiceKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="hello_kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Spices.SpiceKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Kotlin.SpiceKt (1)" />
-      <item itemvalue="Kotlin.SpecialClassesKt" />
-      <item itemvalue="Kotlin.Pj40Kt" />
       <item itemvalue="Kotlin.Pj57Kt" />
       <item itemvalue="Kotlin.Book2Kt" />
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Kotlin.Book3Kt" />
+      <item itemvalue="Kotlin.AquariumKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Pj57Kt" />
+        <item itemvalue="Kotlin.AquariumKt" />
         <item itemvalue="Kotlin.Book2Kt" />
-        <item itemvalue="Kotlin.Pj40Kt" />
-        <item itemvalue="Kotlin.SpecialClassesKt" />
-        <item itemvalue="Kotlin.SpiceKt (1)" />
+        <item itemvalue="Kotlin.Book3Kt" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.Pj57Kt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -147,11 +242,59 @@
       <workItem from="1591555727133" duration="11537000" />
       <workItem from="1592734655442" duration="755000" />
       <workItem from="1593790035272" duration="113000" />
+      <workItem from="1598643828951" duration="2367000" />
+      <workItem from="1598649905273" duration="5563000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="131" width="1024" height="852" key="#Project_Structure" timestamp="1598645170599">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="479" y="131" width="1024" height="852" key="#Project_Structure/72.27.1848.1053/1920.0.1920.1200@72.27.1848.1053" timestamp="1598645170599" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598645169303">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1200@72.27.1848.1053" timestamp="1598645169303" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1598820458960">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1598820458960" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1200@72.27.1848.1053" timestamp="1598650373681" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1598820458959">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1598820458959" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1200@72.27.1848.1053" timestamp="1598650373681" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1598820458959">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1598820458959" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1200@72.27.1848.1053" timestamp="1598650373680" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1598820458959">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1598820458959" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1200@72.27.1848.1053" timestamp="1598650373681" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1598646240406">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1200@72.27.1848.1053" timestamp="1598646240406" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -184,6 +327,11 @@
           <url>file://$PROJECT_DIR$/src/AMS.kt</url>
           <line>3</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Aquarium/Book2.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
